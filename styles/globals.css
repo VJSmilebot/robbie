@@ -2,13 +2,27 @@
 @tailwind components;
 @tailwind utilities;
 
-html {
-  scroll-behavior: smooth;
+/* Optional: global font stack */
+body {
+  @apply bg-white text-black font-serif;
 }
 
-/* Optional: Some global polish */
-body {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-  background-color: #f9fafb;
-  color: #333333;
+/* Optional: Link styles */
+a {
+  @apply text-blue-600 hover:underline;
+}
+
+/* Optional: Headings */
+h1, h2, h3, h4, h5, h6 {
+  @apply font-bold tracking-tight;
+}
+
+/* Optional: Custom spacing/padding defaults */
+main {
+  @apply px-4 py-8;
+}
+
+/* Optional: Smooth scrolling for anchors */
+html {
+  scroll-behavior: smooth;
 }
