@@ -1,4 +1,4 @@
-import '@/styles/globals.css'; // Adjust if your CSS file is in a different path
+import '../styles/globals.css'
 import { Merriweather } from 'next/font/google';
 import React from 'react';
 
