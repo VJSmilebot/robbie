@@ -5,10 +5,12 @@ export default function Hero() {
     <section className="min-h-screen flex flex-col items-center justify-center text-center bg-black text-white px-6 py-16 space-y-10">
       <div>
         <h1 className="text-5xl font-bold leading-tight tracking-wide">
-          Welcome to Robbie’s World
+          Robert Manfredi
         </h1>
         <p className="mt-4 text-lg text-gray-300 max-w-2xl mx-auto">
-          Where research meets vision and every pixel has purpose.
+          English Instructor
+           <br />
+          Masters in English (Rhetoric and Composition) 
         </p>
       </div>
 
@@ -24,7 +26,9 @@ export default function Hero() {
 
       <div className="max-w-xl text-gray-400">
         <p>
-          Robbie is a next-generation thinker, backed by science, guided by intuition, and styled like a boss. This headshot is proof. Scroll to explore his research, publications, and creative mind.
+          Robert is a rhetoric scholar with a background in critical theory and digital rhetoric.
+
+          He’s passionate about teaching students critical thinking in this digital world.
         </p>
       </div>
     </section>
