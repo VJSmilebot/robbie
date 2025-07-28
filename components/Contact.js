@@ -6,7 +6,7 @@ export default function Contact() {
         <p className="text-lg text-gray-700 leading-relaxed">
           📧 Email: <a href="mailto:rmanfredi@laniertech.edu" className="text-blue-600 underline">rmanfredi@laniertech.edu</a><br />
 
-          💼 LinkedIn: <a href="https://www.linkedin.com/in/rwmanfredi" className="text-blue-600 underline">INSERT_LINK</a>
+          💼 LinkedIn: <a href="https://www.linkedin.com/in/rwmanfredi" className="text-blue-600 underline">VISIT MY LINKEDIN</a>
         </p>
       </div>
     </section>
