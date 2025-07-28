@@ -12,7 +12,7 @@ export default function CV() {
           <li><strong>Research Assistant</strong> — GSU English Department</li>
         </ul>
         <div className="mt-8">
-          <a href="/cv/robert-manfredi-cv.pdf" className="inline-block bg-blue-600 text-white px-6 py-3 rounded-full shadow hover:bg-blue-700 transition">
+          <a href="/cv/Curriculum Vitae.pdf" className="inline-block bg-blue-600 text-white px-6 py-3 rounded-full shadow hover:bg-blue-700 transition">
             Download Full CV (PDF)
           </a>
         </div>
